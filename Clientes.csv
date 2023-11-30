@@ -1,0 +1,11 @@
+﻿id;cpf;nome;endereco;cep;email;telefone 
+1;123.456.789-11;José Silva;Avenida Paulista 500;12345-000;jose@gmail.com;(11)95465-3212
+2;234.567.890-12;Maria Oliveira;Avenida Sapopemba 753;23450-001;maria@gmail.com;(11)95367-3517
+3;345.678.901-23;Pedro Gonçalves;Avenida Oscar Freire 352;34500-130;pedro@gmail.com;(11)96378-6521
+4;456.789.012-34;Luis Amorin;Avenida Avanhandava 951;45000-502;luis@gmail.com;(11)94532-3574
+5;567.890.123-45;Fernando Cabral;Avenida Augusta 8544;50005-351;fernando@gmail.com;(11)98315-5355
+6;678.901.234-56;Diego Lima;Beco Batman s/n;72335-080;diego@gmail.com;(11)97854-1254
+7;789.012.345-67;João Pascal;Avenida Cruzeiro do Sul 9563;53345-100;joao@gmail.com;(11)96785-1544
+8;890.123.456-78;Jessica Alvaro;Avenida Galvão Bueno 5534;57345-089;jessica@gmail.com;(11)99654-8852
+9;901.234.567-89;Mariana Almeida;Avenida 9 de Julho 2933;32661-007;mariana@gmail.com;(11)93654-4455
+10;012.345.678-90;Katia Borges;Rua Francisco Alves 13;54321-987;katia@gmail.com;(11)98865-4567
