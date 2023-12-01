@@ -1,5 +1,5 @@
-[
-  {
+{
+  "import": {
     "id": "1",
     "cpf": "123.456.789-11",
     "nome": "José Silva",
@@ -8,7 +8,7 @@
     "email": "jose@gmail.com",
     "telefone": "(11)95465-3212"
   },
-  {
+  "import": {
     "id": "2",
     "cpf": "234.567.890-12",
     "nome": "Maria Oliveira",
@@ -17,7 +17,7 @@
     "email": "maria@gmail.com",
     "telefone": "(11)95367-3517"
   },
-  {
+  "import": {
     "id": "3",
     "cpf": "345.678.901-23",
     "nome": "Pedro Gonçalves",
@@ -26,7 +26,7 @@
     "email": "pedro@gmail.com",
     "telefone": "(11)96378-6521"
   },
-  {
+  "import": {
     "id": "4",
     "cpf": "456.789.012-34",
     "nome": "Luis Amorin",
@@ -35,7 +35,7 @@
     "email": "luis@gmail.com",
     "telefone": "(11)94532-3574"
   },
-  {
+  "import": {
     "id": "5",
     "cpf": "567.890.123-45",
     "nome": "Fernando Cabral",
@@ -44,7 +44,7 @@
     "email": "fernando@gmail.com",
     "telefone": "(11)98315-5355"
   },
-  {
+  "import": {
     "id": "6",
     "cpf": "678.901.234-56",
     "nome": "Diego Lima",
@@ -53,7 +53,7 @@
     "email": "diego@gmail.com",
     "telefone": "(11)97854-1254"
   },
-  {
+  "import": {
     "id": "7",
     "cpf": "789.012.345-67",
     "nome": "João Pascal",
@@ -62,7 +62,7 @@
     "email": "joao@gmail.com",
     "telefone": "(11)96785-1544"
   },
-  {
+  "import": {
     "id": "8",
     "cpf": "890.123.456-78",
     "nome": "Jessica Alvaro",
@@ -71,7 +71,7 @@
     "email": "jessica@gmail.com",
     "telefone": "(11)99654-8852"
   },
-  {
+  "import": {
     "id": "9",
     "cpf": "901.234.567-89",
     "nome": "Mariana Almeida",
@@ -80,7 +80,7 @@
     "email": "mariana@gmail.com",
     "telefone": "(11)93654-4455"
   },
-  {
+  "import": {
     "id": "10",
     "cpf": "012.345.678-90",
     "nome": "Katia Borges",
@@ -89,4 +89,4 @@
     "email": "katia@gmail.com",
     "telefone": "(11)98865-4567"
   }
-]
+}
